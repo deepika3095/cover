@@ -31,9 +31,14 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+![image](https://github.com/deepika3095/cover/assets/151625159/c2c69e97-1fbe-431a-8437-89e42211fc0a)
+![image](https://github.com/deepika3095/cover/assets/151625159/818e3e2d-7f59-4229-86fb-0ffa86eea517)
+![image](https://github.com/deepika3095/cover/assets/151625159/c129b19b-0d43-4107-a01d-18a8a1181839)
+![image](https://github.com/deepika3095/cover/assets/151625159/359f7ec1-fd4e-49c8-bc09-73962b63350a)
 
 
 ## OUTPUT:
+![image](https://github.com/deepika3095/cover/assets/151625159/7a3c44a5-8aac-4b74-9f20-b4ffd8510950)
 
 
 ## RESULT:
